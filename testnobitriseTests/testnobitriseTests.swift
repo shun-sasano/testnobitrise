@@ -25,7 +25,7 @@ class testnobitriseTests: XCTestCase {
     }
     
     func testGetText() {
-        XCTAssertEqual(get(text: "test"), "test")
+        XCTAssertEqual(get(text: "test"), "txest")
     }
 
     func testPerformanceExample() {
