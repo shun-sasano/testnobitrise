@@ -18,3 +18,7 @@ class ViewController: UIViewController {
 
 }
 
+
+func get(text: String) -> String {
+    return text
+}
